@@ -32,7 +32,7 @@ It helps you stay focused by managing work sessions, breaks, and productivity cy
 ## 🛠️ Built With
 
 - Python
-- CustomTkinter
+- CustomTkinter, open terminal and type `pip install customtkinter`
 - Tkinter
 - winsound (Windows alerts)
 
@@ -42,5 +42,5 @@ It helps you stay focused by managing work sessions, breaks, and productivity cy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/nikodoro.git
-cd nikodoro
+git clone https://github.com/NikoSeanPascual/PamadoroApp.git
+cd PamadoroApp

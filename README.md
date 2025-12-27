@@ -43,4 +43,5 @@ It helps you stay focused by managing work sessions, breaks, and productivity cy
 1. Clone the repository:
 ```bash
 git clone https://github.com/NikoSeanPascual/PamadoroApp.git
-cd PamadoroApp
+cd PamadoroTimer
+python main.py

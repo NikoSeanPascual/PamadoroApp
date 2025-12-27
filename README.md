@@ -1,21 +1,46 @@
-# Terminal-Based To-Do List
+# ⏱️ Nikodoro — A Polished Pomodoro Timer App
 
-A simple Python terminal application to manage your daily tasks. This project allows you to **add, view, remove, and clear tasks** directly from the terminal.
+Nikodoro is a modern **Pomodoro timer desktop application** built with **CustomTkinter**.  
+It helps you stay focused by managing work sessions, breaks, and productivity cycles with a clean and minimal UI.
 
-## Features
+---
 
-- Add a task to your to-do list
-- View all tasks in the list
-- Remove a specific task by number
-- Clear all tasks
-- Exit the program
+## ✨ Features
 
-## How to Use
+- Pomodoro workflow (Work → Short Break → Long Break)
+- Automatic long break after every 4 work sessions
+- Fully customizable timer durations
+- Modern dark-themed UI with smooth progress bar
+- Session counter to track productivity
+- Sound alert when a session ends
+- Always-on-top toggle for better focus
 
-1. Clone the repository or download `to-do-list.py`.
-2. Open a terminal and navigate to the folder containing `to-do-list.py`.
-3. Run the program:
+---
 
+## 🎨 UI Highlights
+
+- Large, readable timer display  
+- Color-coded phases:
+  - 🔴 Work
+  - 🟢 Short Break
+  - 🔵 Long Break
+- Minimalist card-style layout
+- Simple and intuitive controls
+
+---
+
+## 🛠️ Built With
+
+- Python
+- CustomTkinter
+- Tkinter
+- winsound (Windows alerts)
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
 ```bash
-python to-do-list.py
-****
+git clone https://github.com/your-username/nikodoro.git
+cd nikodoro
